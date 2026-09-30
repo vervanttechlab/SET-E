@@ -1,0 +1,4 @@
+Images: Twemoji by Twitter, Inc. and other contributors,
+licensed under CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+Source: https://github.com/twitter/twemoji
+You may replace any image with a real photo as long as the file name stays the same.

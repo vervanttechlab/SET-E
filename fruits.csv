@@ -1,0 +1,29 @@
+fruit_id,fruit_name,category,image
+1,Apple,Fruit,apple.svg
+2,Banana,Fruit,banana.svg
+3,Grapes,Fruit,grapes.svg
+4,Watermelon,Fruit,watermelon.svg
+5,Orange,Fruit,orange.svg
+6,Lemon,Fruit,lemon.svg
+7,Pineapple,Fruit,pineapple.svg
+8,Mango,Fruit,mango.svg
+9,Strawberry,Fruit,strawberry.svg
+10,Cherries,Fruit,cherries.svg
+11,Peach,Fruit,peach.svg
+12,Pear,Fruit,pear.svg
+13,Kiwi,Fruit,kiwi.svg
+14,Coconut,Fruit,coconut.svg
+15,Melon,Fruit,melon.svg
+16,Blueberries,Fruit,blueberries.svg
+17,Avocado,Fruit,avocado.svg
+18,Tomato,Vegetable,tomato.svg
+19,Carrot,Vegetable,carrot.svg
+20,Corn,Vegetable,corn.svg
+21,Eggplant,Vegetable,eggplant.svg
+22,Broccoli,Vegetable,broccoli.svg
+23,Potato,Vegetable,potato.svg
+24,Cucumber,Vegetable,cucumber.svg
+25,Garlic,Vegetable,garlic.svg
+26,Onion,Vegetable,onion.svg
+27,Bell Pepper,Vegetable,bell_pepper.svg
+28,Chili Pepper,Vegetable,chili_pepper.svg
